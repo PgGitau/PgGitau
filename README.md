@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+### Enthusiastic web designer and developer with a proven track record of crafting engaging online experiences. I've successfully collaborated with clients to transform their visions into impactful websites. Specializing in modern, visually appealing, and user-friendly designs, I leverage my skills in HTML, CSS, JavaScript, and popular frameworks like React, Angular, WordPress, and Figma. My expertise lies in web and app design, where I strive to create intuitive and effective digital solutions.
+
 <!--
 **PgGitau/PgGitau** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
